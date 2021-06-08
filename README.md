@@ -5,7 +5,7 @@ The address book folder contains a project I did to practice these concepts.
 
 # Address Book Project
 
-The address book is basically a program for searching, adding, deleting, and editing contacts in the address book. Entries are stored in the entries subfolder which are then accessed through the program.
+The address book is a program for searching, adding, deleting, and editing contacts in the address book. Entries are stored in the entries subfolder which are then accessed through the program.
 
 ## Search
 
